@@ -1,4 +1,3 @@
-//Irene Chan 3119181
 public class Transaction
 {
     private static int lastTx =1000;
