@@ -1,4 +1,3 @@
-//3119181 Irene Chan
 import java.util.ArrayList;
 public class CreditCard
 {
