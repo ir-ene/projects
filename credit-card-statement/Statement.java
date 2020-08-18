@@ -1,9 +1,4 @@
 import java.util.ArrayList;
-//3119181 Irene Chan
-/**
- * ACS-1903
- * As3 q2 
- */
 public class Statement{
     public static void main (String args[]){
         // create cards and transactions and add to lists
