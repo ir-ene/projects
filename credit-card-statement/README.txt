@@ -1,1 +1,1 @@
-This program will scan through a text file and create a credit card statement for each card holder.
+This program will scan through an arraylist and create a credit card statement for each card holder.
