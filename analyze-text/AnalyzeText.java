@@ -7,7 +7,7 @@ public class AnalyzeText
 {
     public static void main (String[] args)
     throws FileNotFoundException {
-        Scanner s = new Scanner(new File("file.txt")); //you can replace this with any .txt file to analyze
+        Scanner s = new Scanner(new File("SampleText.txt")); //you can replace this with any .txt file to analyze
         ArrayList <String> wordList = new ArrayList<>();
         ArrayList <Integer> freqList = new ArrayList<>();
         ArrayList <String> hyphenList = new ArrayList<>();
